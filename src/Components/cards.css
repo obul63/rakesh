@@ -6,13 +6,13 @@
 
 }
 #abc{
-    padding: 5px;
+    padding: 8px;
     width: 100px;
     background-color: black;
     color: blanchedalmond;
 }
 #abc:hover{
-    border-radius: 55%;
+    border-radius: 25px;
     background-color: rgb(248, 90, 10);
     transform: skewX();
 
@@ -36,11 +36,10 @@
     border-radius: 20px;
  }
 
-   
 
 #a:hover{
 border-radius: 90%;
-box-shadow: 50px 50px 100px rgb(240, 224, 4);
+/* box-shadow: 50px 50px 100px rgb(240, 224, 4); */
 
 }
 #font{

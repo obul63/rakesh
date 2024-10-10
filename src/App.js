@@ -7,7 +7,7 @@ import News from "./Components/News";
 import Contacts from "./Components/Contacts";
 import Products from "./Components/Products";
 import Weather from "./Components/Weather";
- import Home from "./Components/Home"
+import Home from "./Components/Home"
 import Login from "./Components/Login";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 export default function App() {
